@@ -1,0 +1,6 @@
+{
+  "name": "Lost and Found Portal",
+  "description": "একটি হারিয়ে যাওয়া ও তথ্যপ্রমাণ সহ খুঁজে পাওয়ার জন্য তৈরি পোর্টাল (Bikroy.com এর আদলে ডিজাইন)।",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
